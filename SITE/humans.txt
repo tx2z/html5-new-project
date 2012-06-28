@@ -1,0 +1,16 @@
+/* SITE */
+
+  Last update: 2012/02/04
+
+  Standards: HTML5, CSS3
+  Components: jQuery
+  Tools: Aptana IDE, Fireworks
+  Languages: English / Castellano
+
+/* TEAM */
+  DESIGN & CODE: tx2z (Jesús Pérez)
+  Site: http://about.me/tx2z
+  
+/* THANKS */
+  SUPPORT: Sophia Harrigton
+  Site: http://leole-shop.com
