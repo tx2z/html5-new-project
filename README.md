@@ -10,8 +10,6 @@ Content
 
 		FAVICON-ICO.psd
 
-		iOS-icon.psd
-
 		mockup.png *Adobe Fireworks file*
 
 		resources *Desing resources*
